@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.netease.SCM.dao.AccountMapper">
+    <resultMap id="accountResultMap" type="com.netease.SCM.entity.Account">
+        <id column="acc_id" property="accId" jdbcType="INTEGER" />
+        <result column="acc_" property="" jdbcType="" />
+        <result column="" property="" jdbcType="" />
+        <result column="" property="" jdbcType="" />
+    </resultMap>
+
+    <select id="" />
+
+</mapper>
